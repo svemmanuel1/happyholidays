@@ -1,0 +1,13 @@
+html,
+body {
+  height: 100%;
+}
+
+body {
+  background-color: #a0d4db;
+  overflow: hidden;
+}
+
+svg {
+  visibility: hidden;
+}
